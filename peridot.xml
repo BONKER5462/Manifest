@@ -7,27 +7,27 @@
 
     <!-- ================= Device-trees ================= -->
     <project path="device/xiaomi/peridot"
-             name="Powerhouse-Lab/android_device_xiaomi_peridot"
-             revision="vos"
+             name="BONKER5462/android_device_xiaomi_peridot"
+             revision="lineage-23.2"
              remote="github"
              clone-depth="1" />   
 
     <!-- ================= KERNEL ================= -->
     <project path="kernel/xiaomi/sm8635"
-             name="Powerhouse-Lab/android_kernel_xiaomi_sm8635"
-             revision="vos"
+             name="BONKER5462/android_kernel_xiaomi_sm8635"
+             revision="lineage-23.2"
              remote="github"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-modules"
-             name="Powerhouse-Lab/android_kernel_xiaomi_sm8635-modules"
-             revision="vos"
+             name="BONKER5462/android_kernel_xiaomi_sm8635-modules"
+             revision="lineage-23.2"
              remote="github"
              clone-depth="1" />
 
     <project path="kernel/xiaomi/sm8635-devicetrees"
-             name="Powerhouse-Lab/android_kernel_xiaomi_sm8635-devicetrees"
-             revision="vos"
+             name="BONKER5462/android_kernel_xiaomi_sm8635-devicetrees"
+             revision="lineage-23.2"
              remote="github"
              clone-depth="1" />
 
